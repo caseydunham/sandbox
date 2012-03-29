@@ -2,4 +2,4 @@
 rst test
 =======
 
-"!http://api.coderwall.com/caseydunham/endorse.png!":http://coderwall.com/caseydunham
+.. http://api.coderwall.com/caseydunham/endorse.png: http://coderwall.com/caseydunham
